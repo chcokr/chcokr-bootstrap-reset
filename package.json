@@ -1,0 +1,22 @@
+{
+  "name": "chcokr-bootstrap-reset",
+  "version": "0.0.0",
+  "description": "An opinionated reset of Bootstrap's style rules.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chcokr/chcokr-bootstrap-reset.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "reset"
+  ],
+  "author": "YJ Yang <chcokr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chcokr/chcokr-bootstrap-reset/issues"
+  },
+  "homepage": "https://github.com/chcokr/chcokr-bootstrap-reset#readme"
+}
