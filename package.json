@@ -1,6 +1,6 @@
 {
   "name": "chcokr-bootstrap-reset",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An opinionated reset of Bootstrap's style rules.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
