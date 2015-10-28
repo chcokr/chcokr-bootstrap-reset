@@ -1,6 +1,12 @@
 @navbar-border-radius: 0;
 @navbar-margin-bottom: 0;
 
+@media print {
+  a, a:link, a:visited {
+    color: @link-color !important; // Restore link colors on print.
+  }
+}
+
 button {
   letter-spacing: inherit;
 }
